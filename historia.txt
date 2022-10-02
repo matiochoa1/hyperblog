@@ -5,3 +5,5 @@ Simon es un perrito que vive en Madrid y nacio en Argentina, le gusta viajar.
 Simon ama a sus papas.
 
 Es el perro mas hermoso del mundo.
+
+Hoy hablaremos de su gusto por el pollo.
