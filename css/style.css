@@ -7,14 +7,33 @@ body {
     color: #333;
 }
 
+.header {
+    background-color: #33a;
+    color: #fff;
+    box-shadow: 9px 6px 5px -3px rgba(0,0,0,0.75);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+.tagline {
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+
 .container {
     width: 100%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #331;
     margin: 0 auto;
 }
 
-.container h1 {
+.post {
+    padding: 1em;
+}
+
+.post h1 {
     font-size: 20px;
 }
